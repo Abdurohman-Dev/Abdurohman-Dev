@@ -35,7 +35,9 @@ I build scalable, secure, and production-ready web applications. Passionate abou
 
 ### 📈 GitHub Stats
 
-![Abdurohman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdurohman-Dev&show_icons=true&theme=github_dark)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdurohman-Dev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Abdurohman's GitHub Stats" />
+</div>
 
 ---
 
